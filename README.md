@@ -1,1 +1,1 @@
-# Simple-Games
+# Rock-Paper-Scissor
